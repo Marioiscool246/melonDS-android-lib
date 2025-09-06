@@ -35,6 +35,7 @@ namespace MelonDSAndroid {
         char* dsiFirmwarePath;
         char* dsiNandPath;
         char* internalFilesDir;
+        bool accurateFramerate;
         float fastForwardSpeedMultiplier;
         bool showBootScreen;
         bool useJit;
